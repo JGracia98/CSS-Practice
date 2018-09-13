@@ -1,0 +1,40 @@
+p {
+	color: white;
+	background-color: black;
+	margin: 2em;
+}
+
+p {
+	font-family: fantasy;
+	border-color: slategray;
+	border-width: 3px;
+	border-style: solid;
+	text-align: left;
+}
+div {
+	font-family: cursive;
+	border-style: dashed;
+	border-radius: 50px;
+	border-color: blue;
+	background-color: lightslategray;
+}
+h2 {
+	color: blue;
+	text-align: center;
+	font-size: 48px;
+}
+h1{
+	text-align: center;
+	background-color: orange;
+	margin: 50px;
+	font-family: Georgia;
+}
+
+u{
+	color: magenta;
+}
+hr{
+	border-style: dashed;
+	border-color: midnightblue;
+	border-width: 3px;
+}
